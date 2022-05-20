@@ -1,0 +1,21 @@
+::ng-deep .mat-step-icon.mat-step-icon-state-number.mat-step-icon-selected,::ng-deep .mat-step-icon.mat-step-icon-state-edit{
+    background-color: orange;
+}
+
+.example-container {
+    width: 100%;
+    height: 100%;
+
+  }
+  
+  .example-sidenav-content {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  
+  .example-sidenav {
+    padding: 20px;
+    width: 40%;
+  }
